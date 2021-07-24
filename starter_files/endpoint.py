@@ -5,7 +5,7 @@ import json
 # 'http://8530a665-66f3-49c8-a953-b82a2d312917.eastus.azurecontainer.io/score'
 scoring_uri = 'http://d258b07f-f6c5-49e5-a3ea-6c120b03f62c.southcentralus.azurecontainer.io/score'
 # If the service is authenticated, set the key or token
-key = 'uuPxIHyViqpywZX2l9cPuc2UUzY53PY0'
+key = 'ux..........53'
 
 # Two sets of data to score, so we get two results back
 data = {"data":
